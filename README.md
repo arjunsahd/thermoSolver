@@ -2,8 +2,9 @@
 
 Python Library to solve stochiometric equations.
 
-Project to learn implementation of solvers and using optimisation to solve problems iteratively which otherwise would
-take a long time to solve.
+Project to learn implementation of solvers and using optimisation to solve problems iteratively which otherwise would take a long time to solve by hand.
+
+Using IAPWS standards (legit)
 
 ## Note
 
